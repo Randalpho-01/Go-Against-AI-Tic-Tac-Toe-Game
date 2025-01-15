@@ -33,7 +33,7 @@ The AI utilizes a strategy to evaluate potential moves and choose the optimal on
 To start playing the game, follow these simple steps:
 
 1. **Link To Play The Game:**  
-   Link: (https://randalpho-01.github.io/Go-Against-AI-Tic-Tac-Toe-Game/)
+   Link: (https://)
    ```
 3. **Start Playing:**  
    - Choose whether to play with or without the timer.
