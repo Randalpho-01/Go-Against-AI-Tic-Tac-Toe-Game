@@ -95,7 +95,7 @@ for (let i = 0; i < 9; i++) {
     }
 
 function displayCongratulationPopup() {
-    alert("Congratulation! You Won! Play Again!");
+    alert("Congratulation! Lets Play!");
     }
 
 displayCongratulationPopup();
